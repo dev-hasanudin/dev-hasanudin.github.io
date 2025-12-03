@@ -2,7 +2,7 @@
 
 **Senior Application Developer**
 
-📧 cyberdin4ever@gmail.com | 📱 +60 12-345 6789 | 📍 Kuala Terengganu, Terengganu | 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasanudin-a-k-a-cyberdin-44905582/)
+📧 cyberdin4ever@gmail.com | 📱 019-674 9342 | 📍 Kuala Terengganu, Terengganu | 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasanudin-a-k-a-cyberdin-44905582/)
 
 ---
 
@@ -15,16 +15,15 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 ## Core Competencies
 
 **Development & Programming**
-- Full-Stack Development (Java, PHP, .NET)
+- Full-Stack Development (PHP)
 - Oracle Database & PL/SQL
 - Oracle JDeveloper, ADF & Forms
-- Tcl/Tk & Shell Scripting
+- 4GL & Shell Scripting
 
 **Specialized Technologies**
-- GIS Technologies (SuperMap, Mapbox MVT)
+- GIS Technologies (QGIS< SuperMap, Mapbox MVT)
 - POS Systems & Retail IT Management
-- Payment Gateway Integration
-- Report Development (Jasper, Oracle, Crystal)
+- Report Development (Jasper, Oracle, Crystal, Ariacom)
 
 **Infrastructure & Operations**
 - Linux/Unix Server Administration
@@ -120,31 +119,16 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 
 ## Education
 
-**Bachelor of Computer Science**  
-University Name | 2003 - 2007
+**Bachelor of Information Technology (Major in Industrial Computing)**  
+The National University of Malaysia (UKM) | 2002 - 2005
 
 ---
 
-## Technical Projects
+## Reference
 
-### Featured Projects on GitHub
-*[Add your GitHub repository links and descriptions here]*
+Feel free to reach out for any enquiries.
 
----
-
-## Certifications
-
-- Oracle Certified Professional (OCP) - Database Administrator
-- Oracle JDeveloper Certified Expert
-- Linux System Administrator Certification
-
----
-
-## Contact
-
-Feel free to reach out for collaboration opportunities, consulting, or technical discussions.
-
-📧 **Email:** your.email@example.com  
+📧 **Name:** your.email@example.com  
 📱 **Phone:** +60 12-345 6789  
 📍 **Location:** Kota Bharu, Kelantan, Malaysia  
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
