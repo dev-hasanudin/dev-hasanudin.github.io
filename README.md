@@ -21,13 +21,13 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - 4GL & Shell Scripting
 
 **Specialized Technologies**
-- GIS Technologies (QGIS< SuperMap, Mapbox MVT)
+- GIS Technologies (QGIS, SuperMap, Mapbox MVT)
 - POS Systems & Retail IT Management
 - Report Development (Jasper, Oracle, Crystal, Ariacom)
 
 **Infrastructure & Operations**
 - Linux/Unix Server Administration
-- System Integration & Testing
+- System Integration, Testing & Support
 - Performance Tuning & Optimization
 - Database Management (Oracle 10g/11g)
 
@@ -115,6 +115,13 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Transitioned to server ownership: deployed, configured and administered four-site Linux servers (application, workflow, infrastructure, database) for PTD/PTG Penang using PuTTY, Xmanager/Xstart and WinSCP, ensuring high availability and system performance.
 - Led system testing, performance tuning and version upgrades; resolved production incidents and provided ongoing user/operations support to maintain critical government land administration services.
 
+### Production Executive (Logistics & Inventory)
+**Malaysian Bio-Diagnostics Research Sdn. Bhd. (MBDr)** | Nov 2005 - Dec 2006
+
+- Coordinated production logistics and material flow, ensuring timely delivery of raw materials and components to production lines while maintaining optimal inventory levels to prevent stockouts and minimize production downtime.
+- Managed inventory control processes including stock tracking, cycle counts, and warehouse organization, implementing inventory management systems to maintain accurate records and ensure efficient space utilization.
+- Liaised with procurement, production, and warehouse teams to forecast material requirements, plan inventory replenishment schedules, and resolve supply chain issues, ensuring seamless operations and on-time production delivery.
+
 ---
 
 ## Education
@@ -128,10 +135,13 @@ The National University of Malaysia (UKM) | 2002 - 2005
 
 Feel free to reach out for any enquiries.
 
-📧 **Name:** your.email@example.com  
-📱 **Phone:** +60 12-345 6789  
-📍 **Location:** Kota Bharu, Kelantan, Malaysia  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📧 **Name:** EN. GHAZI BIN ABDULLAH  
+📱 **Phone:** 012-385 9211  
+💼 **Company:** LY RESOURCES
+
+📧 **Name:** EN. MUHAMMAD HASSAN BASRI BIN ABDUL HAMID  
+📱 **Phone:** 011-2926 8646  
+💼 **Company:** ASIA DEBUT TECHNOLOGY SDN. BHD.
 
 ---
 
