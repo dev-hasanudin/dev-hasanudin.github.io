@@ -8,9 +8,8 @@
 
 ## Professional Summary
 
-<div text-align="justify">
 Versatile Senior Application Developer with 18+ years of progressive experience spanning full-stack development, system analysis, project management, and technical leadership. Demonstrated expertise across diverse technology stacks including Oracle ecosystems, GIS technologies, POS systems, and modern web frameworks. Proven track record of delivering mission-critical solutions for government agencies, financial institutions, retail operations, and manufacturing sectors. Adept at bridging technical and business requirements, leading cross-functional teams, and driving innovation through R&D initiatives.
-</div>
+
 ---
 
 ## Core Competencies
@@ -75,12 +74,27 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Maintained corporate website (sabasun.com) and Microsoft 365 environment, updating content and publishing promotional campaigns to support marketing initiatives.
 - Developed Technical Support System and "Superior Assessment" module, improving issue tracking, resolution workflows, and employee performance evaluation processes.
 
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Technical Support System | SABASUN | Developer | UAT |
+| 2 | Internal Survey | SABASUN | Developer | Live |
+| 3 | ARMS Point Of Sales | SABASUN | Administrator | Live |
+
 ### IT Support
 **Xiri Group Sdn Bhd** | Apr 2022 - Nov 2022
 
 - Managed POS system (Pandasoftware.my) including setup, maintenance, and troubleshooting of software and hardware components, supporting retail operations across the organization.
 - Maintained website and mobile app (MyXiri), updating promotional content and ensuring seamless customer experience across digital platforms.
 - Ensured smooth IT operations across retail and operational departments, providing technical support and resolving system issues to minimize business disruption.
+
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Panda Point Of Sales | XIRI Group | Administrator | Live |
+| 2 | MyXiri Apps | XIRI Group | Administrator | Live |
 
 ### Programmer
 **Firesell Sdn Bhd** | Jul 2017 - Oct 2021
