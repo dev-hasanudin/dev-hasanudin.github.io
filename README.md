@@ -45,12 +45,27 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 
 - Enhanced and maintained Corridor Utility Systems for Terengganu, resolving bugs and improving system stability to ensure reliable infrastructure management.
 
+## Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Utility System | Koridor Utiliti Teknologi Terengganu | Developer & Support | Live |
+
 ### Senior Application Developer
 **Asia Debut Technology Sdn Bhd** | Jun 2024 - Nov 2025
 
 - Enhanced and maintained Corridor Utility Systems for Terengganu and Perak, including the KUTT portal (kutt.my), resolving bugs and improving system stability across multiple state deployments.
 - Coordinated with engineering and surveying teams to produce Wayleave Plans, Utility Detection Maps, and As-Built Plans, streamlining workflows and supporting technical decisions for infrastructure projects.
 - Conducted R&D and implemented prototypes integrating Mapbox Vector Tiles (MVT), SuperMap GIS technologies, and Work Order Management System (WOMS), driving innovation in geospatial application development.
+
+## Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Utility System | Koridor Utiliti Teknologi Terengganu | Developer & Support | Live |
+| 2 | Work Order Management System | ADT | Developer | RnD |
+| 3 | SuperMap Map Viewer | ADT | Developer | RnD |
+| 4 | MVT (Mapbox Vector Tiles) Map Viewer | ADT | Developer | RnD |
 
 ### IT Executive
 **Sabasun Hyperruncit Sdn Bhd** | Dec 2022 - May 2023
