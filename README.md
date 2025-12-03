@@ -4,7 +4,7 @@
 
 📧 cyberdin4ever@gmail.com | 📱 019-674 9342 | 📍 Kuala Terengganu, Terengganu | 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasanudin-a-k-a-cyberdin-44905582/)
 
-<img src="profile_pic1.jpg" alt="Profile Picture" width="200"/>
+<!--img src="profile_pic1.jpg" alt="Profile Picture" width="200"/!-->
 
 <div align="center">
   <img src="profile_pic1.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;"/>
