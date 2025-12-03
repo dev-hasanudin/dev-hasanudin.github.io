@@ -1,0 +1,2 @@
+# dev-hasanudin.github.io
+Senior Application Developer with 18+ years of experience in full-stack development, system analysis, and project management. Specializing in Oracle ecosystems, GIS technologies, POS systems, and enterprise solutions across government, financial, and retail sectors.
