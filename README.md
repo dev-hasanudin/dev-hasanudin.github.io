@@ -4,6 +4,8 @@
 
 📧 cyberdin4ever@gmail.com | 📱 019-674 9342 | 📍 Kuala Terengganu, Terengganu | 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasanudin-a-k-a-cyberdin-44905582/)
 
+<img src="assets/profile-pic.jpg" alt="Profile Picture" width="200"/>
+
 ---
 
 ## Professional Summary
@@ -194,7 +196,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 | 2 | eTanah | PTD & PTG Pulau Pinang | Server Administrator | Live |
 
 ### Production Executive (Logistics & Inventory)
-**Malaysian Bio-Diagnostics Research Sdn. Bhd. (MBDr)** | Nov 2005 - Dec 2006
+**Malaysian Bio-Diagnostics Research Sdn. Bhd. (MBDr)** | Feb 2006 - Feb 2007
 
 - Coordinated production logistics and material flow, ensuring timely delivery of raw materials and components to production lines while maintaining optimal inventory levels to prevent stockouts and minimize production downtime.
 - Managed inventory control processes including stock tracking, cycle counts, and warehouse organization, implementing inventory management systems to maintain accurate records and ensure efficient space utilization.
