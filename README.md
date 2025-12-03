@@ -45,7 +45,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 
 - Enhanced and maintained Corridor Utility Systems for Terengganu, resolving bugs and improving system stability to ensure reliable infrastructure management.
 
-## Projects
+#### Projects
 
 | # | System/Application | Client | Job Scopes | Stage |
 |---|-------------------|--------|------------|-------|
@@ -58,7 +58,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Coordinated with engineering and surveying teams to produce Wayleave Plans, Utility Detection Maps, and As-Built Plans, streamlining workflows and supporting technical decisions for infrastructure projects.
 - Conducted R&D and implemented prototypes integrating Mapbox Vector Tiles (MVT), SuperMap GIS technologies, and Work Order Management System (WOMS), driving innovation in geospatial application development.
 
-## Projects
+#### Projects
 
 | # | System/Application | Client | Job Scopes | Stage |
 |---|-------------------|--------|------------|-------|
