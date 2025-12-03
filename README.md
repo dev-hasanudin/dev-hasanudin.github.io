@@ -103,6 +103,13 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Delivered enhancements, bug fixes, and full technical support for the Firesell Agent System, improving stability, feature coverage, and user satisfaction across the nationwide agent network.
 - Developed key features for the nationwide Profit Sharing Program platform, including user/merchant onboarding, QR-based cashless transactions, cashier processing, e-Tunai top-up/withdrawal/transfer flows, and comprehensive transaction tracking capabilities.
 
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Sistem Agen | Various | Developer | Live |
+| 2 | Profit Sharing Program | PSP Nationwide Network Sdn Bhd | Developer | UAT |
+
 ### Lecturer
 **KRIM College of Technology & Innovation** | Jan 2016 - Jul 2017
 
@@ -117,12 +124,31 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Led requirement gathering, scope definition, and change enhancements across multiple government and corporate projects including MBKT (eLesen, CCC, payment-gateway integration), CCIG portal improvements, FINAS eLesen bug fixes, and Kraftangan portal maintenance.
 - Managed full project lifecycles from requirements study through deployment, coordinating technical teams, conducting stakeholder workshops, and delivering project proposals for ANGKASA and Kolej KRIM CMS initiatives.
 
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Sistem Pengurusan Pekerja Asing | LKPP Corporation Sdn Bhd (LCSB) | Project Manager/System Analyst | UAT |
+| 2 | Sistem Bekalan Air | Jabatan Bekalan Air Negeri Terengganu (JBAT) | Project Manager/System Analyst | Live |
+| 3 | eLesen, CCC & Payment Gateway | Majlis Bandaraya Kuala Terengganu (MBKT) | System Analyst | URS |
+| 4 | CCIG portal | Creative Content Industry Guild (CCIG) | System Analyst | Live |
+| 5 | eLesen | Perbadanan Kemajuan Filem Nasional Malaysia (FINAS) | System Analyst | Live |
+| 6 | Content Management System | Kolej KRIM | System Analyst | URS |
+| 7 | Kraftangan portal | Kraftangan Malaysia | System Analyst | UAT |
+
 ### Analyst Programmer
 **Century Software Sdn Bhd** | May 2011 - Oct 2013
 
 - Enhanced and configured the ePBT system for DBKL, working with Civica's platform to tailor modules including Receipting, Water Billing, Asset, Insurance, Rates, and Contract Register according to user and authority requirements using Four J's code generator for 4GL-based development.
 - Developed and improved functional components across key municipal management modules, ensuring accurate billing calculations, asset tracking, and contract management for local government operations.
 - Managed weekly source-code and runtime backups, performed database refresh activities on Oracle Database 11g, and ensured stable system operations with minimal downtime for critical municipal services.
+
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | ePBT | Dewan Bandaraya Kuala Lumpur (DBKL) | Analyst Programmer | Live |
+| 2 | ePBT | Dewan Bandaraya Kuala Lumpur (DBKL) | Server Administrator | Live |
 
 ### Software Developer
 **iEnterprise Online Sdn Bhd** | Jul 2009 - Apr 2011
@@ -131,6 +157,14 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Built and maintained maintenance modules (User, Program, Position) and quality-assurance screens for the Contact Centre Management System (CCMS) using Oracle JDeveloper 10g (ADF), integrating front-end components with PL/SQL procedures and Oracle Database 10g.
 - Designed and managed all project reporting using Jasper iReport and Ariacom Report tools, delivering operational and analytical reports aligned with client needs, including maintenance screens and reporting components for the Danajamin DCIMS project using Oracle Forms and Oracle Report Builder.
 
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Customer Information & Monitoring System | Danajamin Guarantee Berhad | Developer | Development |
+| 2 | Call Centre Management System | Vision IP Sdn Bhd (VIPS) | Developer | Live |
+| 3 | Data Cleansing | Credit Guarantee Corporation (CGC) | Developer | Live |
+
 ### IT Engineer
 **Freescale Semiconductor (M) Sdn Bhd** | Jul 2008 - Jun 2009
 
@@ -138,12 +172,26 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 - Sustained and enhanced the Genesis Wafermap subsystem, implementing new features requested by production teams and resolving defects to ensure stable production-line operation in the semiconductor manufacturing environment.
 - Collaborated with cross-functional engineering teams to evaluate requests, plan feature improvements, and maintain high system reliability while supporting day-to-day production activities as part of the AIM (Advanced Industrial Manufacturing) / Production Line Support group.
 
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | Genesis | Freescale | Developer | Live |
+| 2 | Stripmap | Freescale | Developer | Live |
+
 ### Application Developer
 **iLaunch Sdn Bhd** | May 2007 - Jun 2008
 
 - Engineered and maintained core eTanah module (Disposal VO), producing functional and analytical reports using Oracle Report Builder and JDeveloper (Oracle 10g), with deep SQL and Oracle DB experience to implement data and application fixes meeting pilot requirements for the government land management system.
 - Transitioned to server ownership: deployed, configured and administered four-site Linux servers (application, workflow, infrastructure, database) for PTD/PTG Penang using PuTTY, Xmanager/Xstart and WinSCP, ensuring high availability and system performance.
 - Led system testing, performance tuning and version upgrades; resolved production incidents and provided ongoing user/operations support to maintain critical government land administration services.
+
+#### Projects
+
+| # | System/Application | Client | Job Scopes | Stage |
+|---|-------------------|--------|------------|-------|
+| 1 | eTanah | PTD & PTG Pulau Pinang | Report Developer | Live |
+| 2 | eTanah | PTD & PTG Pulau Pinang | Server Administrator | Live |
 
 ### Production Executive (Logistics & Inventory)
 **Malaysian Bio-Diagnostics Research Sdn. Bhd. (MBDr)** | Nov 2005 - Dec 2006
@@ -154,7 +202,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 
 ---
 
-## Education
+## Highest Education
 
 **Bachelor of Information Technology (Major in Industrial Computing)**  
 The National University of Malaysia (UKM) | 2002 - 2005
