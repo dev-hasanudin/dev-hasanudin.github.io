@@ -115,6 +115,25 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 ![SuperMap](assets/images/SuperMap_comparison.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Comparison*
 
+**4. MVT (Mapbox Vector Tiles) Map Viewer**<br/>
+![MVT](assets/images/MVT_dashboard.png)<br/>
+*R&D project of GIS viewer using MVT technology - Dashboard*
+
+![MVT](assets/images/MVT_points.png)<br/>
+*R&D project of GIS viewer using MVT technology - 100K Points*
+
+![MVT](assets/images/MVT_polygons.png)<br/>
+*R&D project of GIS viewer using MVT technology - 100K Polygons*
+
+![MVT](assets/images/MVT_lines.png)<br/>
+*R&D project of GIS viewer using MVT technology - 100K Lines*
+
+![MVT](assets/images/MVT_all.png)<br/>
+*R&D project of GIS viewer using MVT technology - 100K Points + Polygons + Lines*
+
+![MVT](assets/images/MVT_upload.png)<br/>
+*R&D project of GIS viewer using MVT technology - Upload .csv & .json*
+
 ### IT Executive
 **Sabasun Hyperruncit Sdn Bhd** | Dec 2022 - May 2023
 
