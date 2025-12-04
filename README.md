@@ -80,7 +80,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 | 3 | SuperMap Map Viewer | ADT | Developer | RnD |
 | 4 | MVT (Mapbox Vector Tiles) Map Viewer | ADT | Developer | RnD |
 
-**2. Work Order Management System**
+**2. Work Order Management System**<br/>
 ![WOMS](assets/images/WO_login.png)
 *R&D project for streamlining work order processes - Login*
 
