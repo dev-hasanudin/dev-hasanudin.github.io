@@ -57,6 +57,13 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 |---|-------------------|--------|------------|-------|
 | 1 | Utility System | Koridor Utiliti Teknologi Terengganu | Developer & Support | Live |
 
+**1. Utility System - Koridor Utiliti Teknologi Terengganu**
+![Utility System - Applicant](assets/images/KITER_applicant.png)
+*Live production system for corridor utilities in Terengganu for an appplicant*
+
+![Utility System - Admin](assets/images/KITER_admin.png)
+*Live production system for managing corridor utilities in Terengganu*
+
 ### Senior Application Developer
 **Asia Debut Technology Sdn Bhd** | Jun 2024 - Nov 2025
 
