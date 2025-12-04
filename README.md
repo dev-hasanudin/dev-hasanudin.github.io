@@ -291,12 +291,12 @@ The National University of Malaysia (UKM) | 2002 - 2005
 
 Feel free to reach out for any enquiries.
 
-📧 **Name:** EN. GHAZI BIN ABDULLAH  
-📱 **Phone:** 012-385 9211  
+📱 **Name:** EN. GHAZI BIN ABDULLAH  
+📧 **Email:** lyresources7@gmail.com  
 💼 **Company:** LY RESOURCES
 
-📧 **Name:** EN. MUHAMMAD HASSAN BASRI BIN ABDUL HAMID  
-📱 **Phone:** 011-2926 8646  
+📱 **Name:** EN. MUHAMMAD HASSAN BASRI BIN ABDUL HAMID  
+📧 **Email:** hassan@asiadebut.group  
 💼 **Company:** ASIA DEBUT TECHNOLOGY SDN. BHD.
 
 ---
