@@ -145,9 +145,20 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 
 | # | System/Application | Client | Job Scopes | Stage |
 |---|-------------------|--------|------------|-------|
-| 1 | Technical Support System | SABASUN | Developer | UAT |
+| 1 | SABASUN Technical Support System | SABASUN | Developer | UAT |
 | 2 | Internal Survey | SABASUN | Developer | Live |
 | 3 | ARMS Point Of Sales | SABASUN | Administrator | Live |
+
+**1. SABASUN Technical Support System (STSS)**<br/>
+![STSS](assets/images/STSS_dashboard.png)<br/>
+*STSS for streamlining complaints - Dashboard*
+
+![STSS](assets/images/STSS_admin_manage_complaint.png)<br/>
+*STSS for streamlining complaints - Manage Complaint*
+
+**2. Internal Survey**<br/>
+![Survey](assets/images/SBSN_survey.png)<br/>
+*Internal survey for leader's assessments - Single display*
 
 ### IT Support
 **Xiri Group Sdn Bhd** | Apr 2022 - Nov 2022
