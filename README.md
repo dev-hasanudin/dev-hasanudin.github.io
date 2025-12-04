@@ -96,6 +96,25 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 ![WOMS](assets/images/WO_PIL_update.png)<br/>
 *R&D project for streamlining work order processes - PIL Update*
 
+**3. SuperMap Map Viewer**<br/>
+![SuperMap](assets/images/SuperMap_dashboard.png)<br/>
+*R&D project of GIS viewer using SuperMap technology - Dashboard*
+
+![SuperMap](assets/images/SuperMap_open_layer.png)<br/>
+*R&D project of GIS viewer using SuperMap technology - Open Layer*
+
+![SuperMap](assets/images/SuperMap_mapbox_gl.png)<br/>
+*R&D project of GIS viewer using SuperMap technology - Mapbox GL*
+
+![SuperMap](assets/images/SuperMap_mapbox_gl_3d.png)<br/>
+*R&D project of GIS viewer using SuperMap technology - Mapbox GL (3D)*
+
+![SuperMap](assets/images/SuperMap_leaflet.png)<br/>
+*R&D project of GIS viewer using SuperMap technology - Leaflet*
+
+![SuperMap](assets/images/SuperMap_comparison.png)<br/>
+*R&D project of GIS viewer using SuperMap technology - Comparison*
+
 ### IT Executive
 **Sabasun Hyperruncit Sdn Bhd** | Dec 2022 - May 2023
 
