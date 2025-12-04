@@ -150,7 +150,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 | 3 | ARMS Point Of Sales | SABASUN | Administrator | Live |
 
 **1. SABASUN Technical Support System (STSS)**<br/>
-![STSS](assets/images/STSS_dashboard.png)<br/>
+![STSS](assets/images/STSS_admin_dashboard.png)<br/>
 *STSS for streamlining complaints - Dashboard*
 
 ![STSS](assets/images/STSS_admin_manage_complaint.png)<br/>
