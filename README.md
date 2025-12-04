@@ -81,19 +81,19 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 | 4 | MVT (Mapbox Vector Tiles) Map Viewer | ADT | Developer | RnD |
 
 **2. Work Order Management System**<br/>
-![WOMS](assets/images/WO_login.png)
+![WOMS](assets/images/WO_login.png)<br/>
 *R&D project for streamlining work order processes - Login*
 
-![WOMS](assets/images/WO_dashboard.png)
+![WOMS](assets/images/WO_dashboard.png)<br/>
 *R&D project for streamlining work order processes - Dashboard*
 
-![WOMS](assets/images/WO_list.png)
+![WOMS](assets/images/WO_list.png)<br/>
 *R&D project for streamlining work order processes - Lists*
 
-![WOMS](assets/images/WO_file_update.png)
+![WOMS](assets/images/WO_file_update.png)<br/>
 *R&D project for streamlining work order processes - WO Update*
 
-![WOMS](assets/images/WO_PIL_update.png)
+![WOMS](assets/images/WO_PIL_update.png)<br/>
 *R&D project for streamlining work order processes - PIL Update*
 
 ### IT Executive
