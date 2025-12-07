@@ -6,7 +6,7 @@
 
 **Senior Application Developer**
 
-📧 cyberdin4ever@gmail.com | 📱 019-674 9342 | 📍 Kuala Terengganu, Terengganu | 💼 [LinkedIn Profile](www.linkedin.com/in/dev-hasanudin)
+📧 cyberdin4ever@gmail.com | 📱 019-674 9342 | 📍 Kuala Terengganu, Terengganu | 💼 [LinkedIn Profile](https://www.linkedin.com/in/dev-hasanudin)
 
 <!--img src="/assets/images/profile_pic1.jpg" alt="Profile Picture" width="200"/!-->
 
