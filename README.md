@@ -12,9 +12,11 @@
 
 ---
 
-<div class="justify">
+
 
 ## Professional Summary
+
+<div class="justify">
 
 Versatile Senior Application Developer with 18+ years of progressive experience spanning full-stack development, system analysis, project management, and technical leadership. Demonstrated expertise across diverse technology stacks including Oracle ecosystems, GIS technologies, POS systems, and modern web frameworks. Proven track record of delivering mission-critical solutions for government agencies, financial institutions, retail operations, and manufacturing sectors. Adept at bridging technical and business requirements, leading cross-functional teams, and driving innovation through R&D initiatives.
 
