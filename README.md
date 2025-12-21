@@ -73,13 +73,9 @@
 ### Senior Application Developer
 **Asia Debut Technology Sdn Bhd** | Jun 2024 - Nov 2025
 
-<div style="text-align: justify; text-justify: inter-word;">
-  <p>
 - Enhanced and maintained Corridor Utility Systems for Terengganu and Perak, including the KUTT portal (kutt.my), resolving bugs and improving system stability across multiple state deployments.
 - Coordinated with engineering and surveying teams to produce Wayleave Plans, Utility Detection Maps, and As-Built Plans, streamlining workflows and supporting technical decisions for infrastructure projects.
 - Conducted R&D and implemented prototypes integrating Mapbox Vector Tiles (MVT), SuperMap GIS technologies, and Work Order Management System (WOMS), driving innovation in geospatial application development.
-  </p>
-</div>  
 
 #### Projects
 
