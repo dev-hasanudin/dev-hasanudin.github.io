@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Justify all paragraph text */
+.content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Or create a specific class */
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
