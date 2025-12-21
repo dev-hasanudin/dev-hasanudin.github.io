@@ -16,6 +16,10 @@
 
 Versatile Senior Application Developer with 18+ years of progressive experience spanning full-stack development, system analysis, project management, and technical leadership. Demonstrated expertise across diverse technology stacks including Oracle ecosystems, GIS technologies, POS systems, and modern web frameworks. Proven track record of delivering mission-critical solutions for government agencies, financial institutions, retail operations, and manufacturing sectors. Adept at bridging technical and business requirements, leading cross-functional teams, and driving innovation through R&D initiatives.
 
+<div style="text-align: justify;">
+Versatile Senior Application Developer with 18+ years of progressive experience spanning full-stack development, system analysis, project management, and technical leadership. Demonstrated expertise across diverse technology stacks including Oracle ecosystems, GIS technologies, POS systems, and modern web frameworks. Proven track record of delivering mission-critical solutions for government agencies, financial institutions, retail operations, and manufacturing sectors. Adept at bridging technical and business requirements, leading cross-functional teams, and driving innovation through R&D initiatives.
+</div>
+
 ---
 
 ## Core Competencies
@@ -129,7 +133,7 @@ Versatile Senior Application Developer with 18+ years of progressive experience 
 *R&D project of GIS viewer using MVT technology - 100K Lines*
 
 ![MVT](assets/images/MVT_all.png)<br/>
-*R&D project of GIS viewer using MVT technology - 100K Points + Polygons + Lines*
+*R&D project of GIS viewer using MVT technology - 100K Points + 100K Polygons + 100K Lines*
 
 ![MVT](assets/images/MVT_upload.png)<br/>
 *R&D project of GIS viewer using MVT technology - Upload .csv & .json*
