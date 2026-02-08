@@ -318,5 +318,5 @@ Feel free to reach out for any enquiries.
 
 <div align="center">
   <img src="/assets/images/ChatGPT_img_gen_My_Life2.png" alt="Hasanudin Caricature" width="600"/>
-  <p><em>"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia"</em></p>
+  <p><em>"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya (Hadis Riwayat Ahmad)"</em></p>
 </div>
