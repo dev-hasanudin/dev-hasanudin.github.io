@@ -64,11 +64,11 @@
 | 1 | Utility System | Koridor Utiliti Teknologi Terengganu | Developer & Support | Live |
 
 **1. Utility System - Koridor Utiliti Teknologi Terengganu**
-![Utility System - Applicant](assets/images/KITER_applicant.png)
-*Live production system for corridor utilities in Terengganu for an appplicant*
+![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)
+*Staging env system for managing corridor utilities in Terengganu - Hapus LTA*
 
-![Utility System - Admin](assets/images/KITER_admin.png)
-*Live production system for managing corridor utilities in Terengganu*
+![Utility System - Admin (Laporan Pendaftaran) ](assets/images/KITER_Admin_Laporan_Pendaftaran.png)
+*Staging env system for managing corridor utilities in Terengganu - Laporan Pendaftaran*
 
 ### Senior Application Developer
 **Asia Debut Technology Sdn Bhd** | Jun 2024 - Nov 2025
@@ -85,6 +85,13 @@
 | 2 | Work Order Management System | ADT | Developer | RnD |
 | 3 | SuperMap Map Viewer | ADT | Developer | RnD |
 | 4 | MVT (Mapbox Vector Tiles) Map Viewer | ADT | Developer | RnD |
+
+**1. Utility System - Koridor Utiliti Teknologi Terengganu**
+![Utility System - Applicant](assets/images/KITER_applicant.png)
+*Live production system for corridor utilities in Terengganu for an appplicant*
+
+![Utility System - Admin](assets/images/KITER_admin.png)
+*Live production system for managing corridor utilities in Terengganu*
 
 **2. Work Order Management System**<br/>
 ![WOMS](assets/images/WO_login.png)<br/>
@@ -307,4 +314,9 @@ Feel free to reach out for any enquiries.
 
 ---
 
-*Last Updated: December 2025*
+*Last Updated: February 2026*
+
+<div align="center">
+  <img src="assets/images/caricature.jpg" alt="Hasanudin Caricature" width="600"/>
+  <p><em>"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia"</em></p>
+</div>
