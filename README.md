@@ -317,6 +317,6 @@ Feel free to reach out for any enquiries.
 *Last Updated: February 2026*
 
 <div align="center">
-  <img src="assets/images/caricature.jpg" alt="Hasanudin Caricature" width="600"/>
+  <img src="/assets/images/ChatGPT_img_gen_My_Life2.png" alt="Hasanudin Caricature" width="600"/>
   <p><em>"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia"</em></p>
 </div>
