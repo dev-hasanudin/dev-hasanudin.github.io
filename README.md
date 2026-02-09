@@ -305,12 +305,12 @@ The National University of Malaysia (UKM) | 2002 - 2005
 Feel free to reach out for any enquiries.
 
 📱 **Name:** EN. GHAZI BIN ABDULLAH  
-📧 **Email:** lyresources7@gmail.com  
+📧 **Email:** lyresources7 at gmail dot com  
 💼 **Company:** LY RESOURCES
 
 📱 **Name:** EN. MUHAMMAD HASSAN BASRI BIN ABDUL HAMID  
-📧 **Email:** hassan@asiadebut.group  
-💼 **Company:** ASIA DEBUT TECHNOLOGY SDN. BHD.
+📧 **Email:** hassan at asiadebut dot group  
+💼 **Company:** ASIA DEBUT SDN. BHD.
 
 ---
 
