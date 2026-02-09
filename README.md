@@ -317,6 +317,6 @@ Feel free to reach out for any enquiries.
 *Last Updated: February 2026*
 
 <div align="center">
-  <img src="/assets/images/ChatGPT_img_gen_My_Life2.png" alt="Hasanudin Caricature" width="600"/>
-  <p><em>"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya (Hadis Riwayat Ahmad)"</em></p>
+  <img src="/assets/images/ChatGPT_img_gen_My_Life5.png" alt="Hasanudin Caricature" width="600"/>
+  <p><em>"The best of people are those that bring most benefit to the rest of mankind." (Narrated by Ahmad)"</em></p>
 </div>
