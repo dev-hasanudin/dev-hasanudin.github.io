@@ -318,5 +318,5 @@ Feel free to reach out for any enquiries.
 
 <div align="center">
   <img src="/assets/images/ChatGPT_img_gen_My_Life5.png" alt="Hasanudin Caricature" width="600"/>
-  <p><em>"The best of people are those that bring most benefit to the rest of mankind." (Narrated by Ahmad)"</em></p>
+  <p><em>"The best of people are those that bring most benefit to the rest of mankind." (Narrated by Ahmad)</em></p>
 </div>
