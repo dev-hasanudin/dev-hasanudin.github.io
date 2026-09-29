@@ -64,6 +64,9 @@
 | 1 | Utility System | Koridor Utiliti Teknologi Terengganu | Developer & Support | Live |
 
 **1. Utility System - Koridor Utiliti Teknologi Terengganu**
+
+<details>
+<summary>Show screenshots</summary>
 ![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai*
 
@@ -87,6 +90,8 @@
 
 ![Utility System - Admin (Laporan Pendaftaran) ](assets/images/KITER_Admin_Laporan_Pendaftaran.png)
 *Staging env system for managing corridor utilities in Terengganu - Laporan Pendaftaran*
+
+</details>
 
 ### Senior Application Developer
 **Asia Debut Technology Sdn Bhd** | Jun 2024 - Nov 2025
