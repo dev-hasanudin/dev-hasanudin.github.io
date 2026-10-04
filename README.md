@@ -68,7 +68,7 @@
 <img
   src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png"
   alt="Utility System - Pemohon (Permohonan Utiliti)"
-  style="border: 1px solid #ddd; border-radius: 4px;"
+  style="border: 3px solid #ddd; border-radius: 4px;"
 /><br/>
 <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai</em>
 
