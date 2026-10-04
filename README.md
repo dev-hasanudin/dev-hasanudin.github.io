@@ -68,12 +68,9 @@
 <img
   src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png"
   alt="Utility System - Pemohon (Permohonan Utiliti)"
-  style="border: 3px solid #ddd; border-radius: 4px;"
+  style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
 <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai</em>
-
-![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png)<br/>
-*Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai*
 
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png)<br/>
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Permohonan*
