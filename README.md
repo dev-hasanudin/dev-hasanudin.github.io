@@ -92,7 +92,7 @@
 ![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_List.png)<br/>
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Senarai*
 
-![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_Form.png<br/>
+![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_Form.png)<br/>
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Borang*
 
 ![Utility System - Umum ](assets/images/Laravel_BKIL.png)<br/>
