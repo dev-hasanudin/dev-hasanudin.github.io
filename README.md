@@ -89,6 +89,9 @@
 ![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_Form.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Paparan Maklumat*
 
+![Utility System - Umum ](assets/images/Laravel_BKIL.png)
+*Local env system for managing corridor utilities in Terengganu (new version) - Borang Kelulusan Izin Lalu*
+
 ![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)
 *Staging env system for managing corridor utilities in Terengganu - Hapus LTA*
 
