@@ -65,23 +65,26 @@
 
 **1. Utility System - Koridor Utiliti Teknologi Terengganu**
 
-![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png)
+![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai*
 
-![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png)
+![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Permohonan*
 
-![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Lampiran.png)
+![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Lampiran.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Lampiran*
 
-![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Pegawai.png)
+![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Pegawai.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Pemohon/Pegawai*
 
-![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Jalan.png)
+![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Jalan.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Jalan*
 
-![Utility System - Admin (Hapus LTA) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Semakan_Permohonan.png)
+![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Semakan_Permohonan.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Semakan Permohonan*
+
+![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_List.png)
+*Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Senarai*
 
 ![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)
 *Staging env system for managing corridor utilities in Terengganu - Hapus LTA*
