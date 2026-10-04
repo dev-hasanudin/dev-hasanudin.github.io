@@ -98,6 +98,12 @@
 ![Utility System - Umum ](assets/images/Laravel_BKIL.png)
 *Local env system for managing corridor utilities in Terengganu (new version) - Borang Kelulusan Izin Lalu*
 
+![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_List.png)
+*Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Senarai*
+
+![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_Form.png)
+*Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Borang*
+
 ![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)
 *Staging env system for managing corridor utilities in Terengganu - Hapus LTA*
 
