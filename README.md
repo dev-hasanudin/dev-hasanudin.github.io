@@ -67,7 +67,7 @@
 
 <img
   src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_List.png"
-  alt="Utility System - Pemohon (Permohonan Utiliti)"
+  alt="Pemohon (Permohonan Utiliti) - Senarai"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
 <span style="font-size: 0.60em;">
@@ -404,29 +404,32 @@
 
 **1. SABASUN Technical Support System (STSS)**<br/>
 <img
-  src=""
-  alt=""
+  src="assets/images/STSS_admin_dashboard.png"
+  alt="STSS - admin dashboard"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![STSS](assets/images/STSS_admin_dashboard.png)<br/>
-*STSS for streamlining complaints - Dashboard*
+<span style="font-size: 0.60em;">
+  <em>STSS for streamlining complaints - Dashboard</em>
+</span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/STSS_admin_manage_complaint.png"
+  alt="STSS - admin manage complaint"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![STSS](assets/images/STSS_admin_manage_complaint.png)<br/>
-*STSS for streamlining complaints - Manage Complaint*
+<span style="font-size: 0.60em;">
+  <em>STSS for streamlining complaints - Manage Complaint</em>
+</span>
 
 **2. Internal Survey**<br/>
 <img
-  src=""
-  alt=""
+  src="assets/images/SBSN_survey.png"
+  alt="SBSN - survey"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Survey](assets/images/SBSN_survey.png)<br/>
-*Internal survey for leader's assessments - Single display*
+<span style="font-size: 0.60em;">
+  <em>Internal survey for leader's assessments - Single display</em>
+</span>
 
 ### IT Support
 **Xiri Group Sdn Bhd** | Apr 2022 - Nov 2022
