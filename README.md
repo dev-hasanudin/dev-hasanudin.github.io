@@ -74,71 +74,141 @@
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Permohonan</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Lampiran.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Lampiran</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Pegawai.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Pemohon/Pegawai</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Jalan.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Jalan</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Semakan_Permohonan.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Semakan Permohonan</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_List.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Senarai</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_Form.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Paparan Maklumat<</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_List.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Senarai</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_Form.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Borang</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Umum ](assets/images/Laravel_BKIL.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Borang Kelulusan Izin Lalu</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_List.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Senarai</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_Form.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Borang</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Staging env system for managing corridor utilities in Terengganu - Hapus LTA</em>
 </span>
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Admin (Laporan Pendaftaran) ](assets/images/KITER_Admin_Laporan_Pendaftaran.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Staging env system for managing corridor utilities in Terengganu - Laporan Pendaftaran</em>
@@ -162,63 +232,158 @@
 | 4 | MVT (Mapbox Vector Tiles) Map Viewer | ADT | Developer | RnD |
 
 **1. Utility System - Koridor Utiliti Teknologi Terengganu**
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Applicant](assets/images/KITER_applicant.png)
 *Live production system for corridor utilities in Terengganu for an appplicant*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Utility System - Admin](assets/images/KITER_admin.png)
 *Live production system for managing corridor utilities in Terengganu*
 
 **2. Work Order Management System**<br/>
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![WOMS](assets/images/WO_login.png)<br/>
 *R&D project for streamlining work order processes - Login*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![WOMS](assets/images/WO_dashboard.png)<br/>
 *R&D project for streamlining work order processes - Dashboard*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![WOMS](assets/images/WO_list.png)<br/>
 *R&D project for streamlining work order processes - Lists*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![WOMS](assets/images/WO_file_update.png)<br/>
 *R&D project for streamlining work order processes - WO Update*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![WOMS](assets/images/WO_PIL_update.png)<br/>
 *R&D project for streamlining work order processes - PIL Update*
 
 **3. SuperMap Map Viewer**<br/>
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![SuperMap](assets/images/SuperMap_dashboard.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Dashboard*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![SuperMap](assets/images/SuperMap_open_layer.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Open Layer*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![SuperMap](assets/images/SuperMap_mapbox_gl.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Mapbox GL*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![SuperMap](assets/images/SuperMap_mapbox_gl_3d.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Mapbox GL (3D)*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![SuperMap](assets/images/SuperMap_leaflet.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Leaflet*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![SuperMap](assets/images/SuperMap_comparison.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Comparison*
 
 **4. MVT (Mapbox Vector Tiles) Map Viewer**<br/>
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![MVT](assets/images/MVT_dashboard.png)<br/>
 *R&D project of GIS viewer using MVT technology - Dashboard*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![MVT](assets/images/MVT_points.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Points*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![MVT](assets/images/MVT_polygons.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Polygons*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![MVT](assets/images/MVT_lines.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Lines*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![MVT](assets/images/MVT_all.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Points + 100K Polygons + 100K Lines*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![MVT](assets/images/MVT_upload.png)<br/>
 *R&D project of GIS viewer using MVT technology - Upload .csv & .json*
 
@@ -238,13 +403,28 @@
 | 3 | ARMS Point Of Sales | SABASUN | Administrator | Live |
 
 **1. SABASUN Technical Support System (STSS)**<br/>
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![STSS](assets/images/STSS_admin_dashboard.png)<br/>
 *STSS for streamlining complaints - Dashboard*
 
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![STSS](assets/images/STSS_admin_manage_complaint.png)<br/>
 *STSS for streamlining complaints - Manage Complaint*
 
 **2. Internal Survey**<br/>
+<img
+  src=""
+  alt=""
+  style="border: 1px solid #ddd; border-radius: 4px;"
+/><br/>
 ![Survey](assets/images/SBSN_survey.png)<br/>
 *Internal survey for leader's assessments - Single display*
 
@@ -383,13 +563,9 @@ Feel free to reach out for any enquiries.
 📧 **Email:** lyresources7 at gmail dot com  
 💼 **Company:** LY RESOURCES
 
-📱 **Name:** EN. MUHAMMAD HASSAN BASRI BIN ABDUL HAMID  
-📧 **Email:** hassan at asiadebut dot group  
-💼 **Company:** ASIA DEBUT SDN. BHD.
-
 ---
 
-*Last Updated: February 2026*
+*Last Updated: October 2026*
 
 <div align="center">
   <img src="/assets/images/ChatGPT_img_gen_My_Life5.png" alt="Hasanudin Caricature" width="600"/>
