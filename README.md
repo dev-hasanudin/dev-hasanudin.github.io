@@ -70,49 +70,79 @@
   alt="Utility System - Pemohon (Permohonan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Senarai</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Permohonan</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Permohonan</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Lampiran.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Lampiran</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Lampiran</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Pegawai.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Pemohon/Pegawai</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Pemohon/Pegawai</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Jalan.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Jalan</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Jalan</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Semakan_Permohonan.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Semakan Permohonan</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Semakan Permohonan</em>
+</span>
 
 ![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_List.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Senarai</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Senarai</em>
+</span>
 
 ![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_Form.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Paparan Maklumat</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Paparan Maklumat<</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_List.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Senarai*
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Senarai</em>
+</span>
 
 ![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_Form.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Borang</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Borang</em>
+</span>
 
 ![Utility System - Umum ](assets/images/Laravel_BKIL.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Borang Kelulusan Izin Lalu</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Borang Kelulusan Izin Lalu</em>
+</span>
 
 ![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_List.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Senarai</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Senarai</em>
+</span>
 
 ![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_Form.png)<br/>
-<em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Borang</em>
+<span style="font-size: 0.85em;">
+  <em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Borang</em>
+</span>
 
 ![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)<br/>
-<em>Staging env system for managing corridor utilities in Terengganu - Hapus LTA</em>
+<span style="font-size: 0.85em;">
+  <em>Staging env system for managing corridor utilities in Terengganu - Hapus LTA</em>
+</span>
 
 ![Utility System - Admin (Laporan Pendaftaran) ](assets/images/KITER_Admin_Laporan_Pendaftaran.png)<br/>
-<em>Staging env system for managing corridor utilities in Terengganu - Laporan Pendaftaran</em>
+<span style="font-size: 0.85em;">
+  <em>Staging env system for managing corridor utilities in Terengganu - Laporan Pendaftaran</em>
+</span>
 
 
 ### Senior Application Developer
