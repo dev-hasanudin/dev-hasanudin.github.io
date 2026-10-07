@@ -239,6 +239,9 @@
 /><br/>
 ![Utility System - Applicant](assets/images/KITER_applicant.png)
 *Live production system for corridor utilities in Terengganu for an appplicant*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -247,6 +250,9 @@
 /><br/>
 ![Utility System - Admin](assets/images/KITER_admin.png)
 *Live production system for managing corridor utilities in Terengganu*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 **2. Work Order Management System**<br/>
 <img
@@ -256,6 +262,9 @@
 /><br/>
 ![WOMS](assets/images/WO_login.png)<br/>
 *R&D project for streamlining work order processes - Login*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -264,6 +273,9 @@
 /><br/>
 ![WOMS](assets/images/WO_dashboard.png)<br/>
 *R&D project for streamlining work order processes - Dashboard*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -272,6 +284,9 @@
 /><br/>
 ![WOMS](assets/images/WO_list.png)<br/>
 *R&D project for streamlining work order processes - Lists*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -280,6 +295,9 @@
 /><br/>
 ![WOMS](assets/images/WO_file_update.png)<br/>
 *R&D project for streamlining work order processes - WO Update*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -288,6 +306,9 @@
 /><br/>
 ![WOMS](assets/images/WO_PIL_update.png)<br/>
 *R&D project for streamlining work order processes - PIL Update*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 **3. SuperMap Map Viewer**<br/>
 <img
@@ -297,6 +318,9 @@
 /><br/>
 ![SuperMap](assets/images/SuperMap_dashboard.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Dashboard*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -305,6 +329,9 @@
 /><br/>
 ![SuperMap](assets/images/SuperMap_open_layer.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Open Layer*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -313,6 +340,9 @@
 /><br/>
 ![SuperMap](assets/images/SuperMap_mapbox_gl.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Mapbox GL*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -321,6 +351,9 @@
 /><br/>
 ![SuperMap](assets/images/SuperMap_mapbox_gl_3d.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Mapbox GL (3D)*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -329,6 +362,9 @@
 /><br/>
 ![SuperMap](assets/images/SuperMap_leaflet.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Leaflet*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -337,6 +373,9 @@
 /><br/>
 ![SuperMap](assets/images/SuperMap_comparison.png)<br/>
 *R&D project of GIS viewer using SuperMap technology - Comparison*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 **4. MVT (Mapbox Vector Tiles) Map Viewer**<br/>
 <img
@@ -346,6 +385,9 @@
 /><br/>
 ![MVT](assets/images/MVT_dashboard.png)<br/>
 *R&D project of GIS viewer using MVT technology - Dashboard*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -354,6 +396,9 @@
 /><br/>
 ![MVT](assets/images/MVT_points.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Points*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -362,6 +407,9 @@
 /><br/>
 ![MVT](assets/images/MVT_polygons.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Polygons*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -370,6 +418,9 @@
 /><br/>
 ![MVT](assets/images/MVT_lines.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Lines*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
   src=""
@@ -378,14 +429,18 @@
 /><br/>
 ![MVT](assets/images/MVT_all.png)<br/>
 *R&D project of GIS viewer using MVT technology - 100K Points + 100K Polygons + 100K Lines*
+<span style="font-size: 0.60em;">
+  <em></em>
+</span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/MVT_upload.png"
+  alt="MVT - upload"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![MVT](assets/images/MVT_upload.png)<br/>
-*R&D project of GIS viewer using MVT technology - Upload .csv & .json*
+<span style="font-size: 0.60em;">
+  <em>R&D project of GIS viewer using MVT technology - Upload .csv & .json</em>
+</span>
 
 ### IT Executive
 **Sabasun Hyperruncit Sdn Bhd** | Dec 2022 - May 2023
