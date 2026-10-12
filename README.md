@@ -75,141 +75,127 @@
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png"
+  alt="Utility System - Pemohon (Permohonan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Permohonan.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Permohonan</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Lampiran.png"
+  alt="Utility System - Pemohon (Permohonan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Lampiran.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Maklumat Lampiran</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Pegawai.png"
+  alt="Utility System - Pemohon (Permohonan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Pegawai.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Pemohon/Pegawai</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Jalan.png"
+  alt="![Utility System - Pemohon (Permohonan Utiliti) "
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Maklumat_Jalan.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Maklumat Jalan</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Semakan_Permohonan.png"
+  alt="Utility System - Pemohon (Permohonan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Utiliti_Tab_Semakan_Permohonan.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Utiliti - Tab Semakan Permohonan</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_RO_Semak_Permohonan_List.png"
+  alt="Utility System - Pegawai Pendaftaran (Semakan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_List.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Senarai</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_RO_Semak_Permohonan_Form.png"
+  alt="Utility System - Pegawai Pendaftaran (Semakan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pegawai Pendaftaran (Semakan Utiliti) ](assets/images/Laravel_RO_Semak_Permohonan_Form.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Semakan Permohonan - Paparan Maklumat<</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Pembatalan_List.png"
+  alt="Utility System - Pemohon (Permohonan Pembatalan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_List.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Senarai</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_Pemohon_Permohonan_Pembatalan_Form.png"
+  alt="Utility System - Pemohon (Permohonan Pembatalan Utiliti)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Pemohon (Permohonan Pembatalan Utiliti) ](assets/images/Laravel_Pemohon_Permohonan_Pembatalan_Form.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Permohonan Pembatalan Utiliti - Borang</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_BKIL.png"
+  alt="Utility System - Umum"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Umum ](assets/images/Laravel_BKIL.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Borang Kelulusan Izin Lalu</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_PKD_Laporan_UDM_List.png"
+  alt="Utility System - PKD (Laporan UDM)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_List.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Senarai</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/Laravel_PKD_Laporan_UDM_Form.png"
+  alt="Utility System - PKD (Laporan UDM)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - PKD (Laporan UDM) ](assets/images/Laravel_PKD_Laporan_UDM_Form.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Local env system for managing corridor utilities in Terengganu (new version) - Laporan UDM - Borang</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/KITER_Admin_Hapus_LTA.png"
+  alt="Utility System - Admin (Hapus LTA)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Admin (Hapus LTA) ](assets/images/KITER_Admin_Hapus_LTA.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Staging env system for managing corridor utilities in Terengganu - Hapus LTA</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/KITER_Admin_Laporan_Pendaftaran.png"
+  alt="Utility System - Admin (Laporan Pendaftaran)"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Admin (Laporan Pendaftaran) ](assets/images/KITER_Admin_Laporan_Pendaftaran.png)<br/>
 <span style="font-size: 0.60em;">
   <em>Staging env system for managing corridor utilities in Terengganu - Laporan Pendaftaran</em>
 </span>
@@ -233,115 +219,95 @@
 
 **1. Utility System - Koridor Utiliti Teknologi Terengganu**
 <img
-  src=""
-  alt=""
+  src="assets/images/KITER_applicant.png"
+  alt="Utility System - Applicant"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Applicant](assets/images/KITER_applicant.png)
-*Live production system for corridor utilities in Terengganu for an appplicant*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>Live production system for corridor utilities in Terengganu for an appplicant</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/KITER_admin.png"
+  alt="Utility System - Admin"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![Utility System - Admin](assets/images/KITER_admin.png)
-*Live production system for managing corridor utilities in Terengganu*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>Live production system for managing corridor utilities in Terengganu</em>
 </span>
 
 **2. Work Order Management System**<br/>
 <img
-  src=""
-  alt=""
+  src="assets/images/WO_login.png"
+  alt="WOMS"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![WOMS](assets/images/WO_login.png)<br/>
-*R&D project for streamlining work order processes - Login*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project for streamlining work order processes - Login</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/WO_dashboard.png"
+  alt="WOMS"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![WOMS](assets/images/WO_dashboard.png)<br/>
-*R&D project for streamlining work order processes - Dashboard*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project for streamlining work order processes - Dashboard</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/WO_list.png"
+  alt="WOMS"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![WOMS](assets/images/WO_list.png)<br/>
-*R&D project for streamlining work order processes - Lists*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project for streamlining work order processes - Lists</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/WO_file_update.png"
+  alt="WOMS"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![WOMS](assets/images/WO_file_update.png)<br/>
-*R&D project for streamlining work order processes - WO Update*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project for streamlining work order processes - WO Update</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/WO_PIL_update.png"
+  alt="WOMS"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![WOMS](assets/images/WO_PIL_update.png)<br/>
-*R&D project for streamlining work order processes - PIL Update*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project for streamlining work order processes - PIL Update</em>
 </span>
 
 **3. SuperMap Map Viewer**<br/>
 <img
-  src=""
-  alt=""
+  src="assets/images/SuperMap_dashboard.png"
+  alt="SuperMap"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![SuperMap](assets/images/SuperMap_dashboard.png)<br/>
-*R&D project of GIS viewer using SuperMap technology - Dashboard*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using SuperMap technology - Dashboard</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/SuperMap_open_layer.png"
+  alt="SuperMap"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![SuperMap](assets/images/SuperMap_open_layer.png)<br/>
-*R&D project of GIS viewer using SuperMap technology - Open Layer*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using SuperMap technology - Open Layer</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/SuperMap_mapbox_gl.png"
+  alt="SuperMap"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![SuperMap](assets/images/SuperMap_mapbox_gl.png)<br/>
-*R&D project of GIS viewer using SuperMap technology - Mapbox GL*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using SuperMap technology - Mapbox GL</em>
 </span>
 
 <img
