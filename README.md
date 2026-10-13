@@ -311,92 +311,76 @@
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/SuperMap_mapbox_gl_3d.png"
+  alt="SuperMap"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![SuperMap](assets/images/SuperMap_mapbox_gl_3d.png)<br/>
-*R&D project of GIS viewer using SuperMap technology - Mapbox GL (3D)*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using SuperMap technology - Mapbox GL (3D)</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/SuperMap_leaflet.png"
+  alt="SuperMap"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![SuperMap](assets/images/SuperMap_leaflet.png)<br/>
-*R&D project of GIS viewer using SuperMap technology - Leaflet*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using SuperMap technology - Leaflet</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/SuperMap_comparison.png"
+  alt="SuperMap"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![SuperMap](assets/images/SuperMap_comparison.png)<br/>
-*R&D project of GIS viewer using SuperMap technology - Comparison*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using SuperMap technology - Comparison</em>
 </span>
 
 **4. MVT (Mapbox Vector Tiles) Map Viewer**<br/>
 <img
-  src=""
-  alt=""
+  src="assets/images/MVT_dashboard.png"
+  alt="MVT"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![MVT](assets/images/MVT_dashboard.png)<br/>
-*R&D project of GIS viewer using MVT technology - Dashboard*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using MVT technology - Dashboard</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/MVT_points.png"
+  alt="MVT"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![MVT](assets/images/MVT_points.png)<br/>
-*R&D project of GIS viewer using MVT technology - 100K Points*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using MVT technology - 100K Points</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/MVT_polygons.png"
+  alt="MVT"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![MVT](assets/images/MVT_polygons.png)<br/>
-*R&D project of GIS viewer using MVT technology - 100K Polygons*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using MVT technology - 100K Polygons</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/MVT_lines.png"
+  alt="MVT"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![MVT](assets/images/MVT_lines.png)<br/>
-*R&D project of GIS viewer using MVT technology - 100K Lines*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using MVT technology - 100K Lines</em>
 </span>
 
 <img
-  src=""
-  alt=""
+  src="assets/images/MVT_all.png"
+  alt="MVT"
   style="border: 1px solid #ddd; border-radius: 4px;"
 /><br/>
-![MVT](assets/images/MVT_all.png)<br/>
-*R&D project of GIS viewer using MVT technology - 100K Points + 100K Polygons + 100K Lines*
 <span style="font-size: 0.60em;">
-  <em></em>
+  <em>R&D project of GIS viewer using MVT technology - 100K Points + 100K Polygons + 100K Lines</em>
 </span>
 
 <img
